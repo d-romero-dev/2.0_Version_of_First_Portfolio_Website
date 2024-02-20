@@ -95,10 +95,6 @@ header a:hover{
     color: black;
 }
 
-#logo-img{
-    padding: 0.1vh;
-    margin: 0.1vh;
-}
 #hero{
     display: flex;
     align-items: center;
@@ -116,7 +112,7 @@ header a:hover{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    
+    object-fit: cover;
 }
 
 #hero h1{
@@ -246,6 +242,7 @@ header a:hover{
 
 #contact button{
     font-size: 5vh;
+    text-decoration: none;
 }
 
 footer{
