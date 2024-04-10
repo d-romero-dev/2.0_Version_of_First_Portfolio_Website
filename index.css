@@ -143,6 +143,12 @@ header a:hover{
     margin-bottom: 2vh; 
 }
 
+#CallToAction{
+    color:gold;
+    background-color: #383740;
+    padding:5px;
+}
+
 
 #technologies{
     background-color: rgb(30,30,30);
