@@ -16,4 +16,4 @@
 >*Applying all the knowledge accired trough academic formation and sefl-teaching within a personal and constant desire of improvement and professionalization.*
 
 >[!TIP]
-><b><i>Access here:</i></b> https://d-romero-dev.github.io/Website_Project_1_V2_Revamped/
+><b><i>Access here:</i></b> [https://d-romero-dev.github.io/Website_Project_1_V2_Revamped/](https://d-romero-dev.github.io/2.0_Version_of_First_Portfolio_Website/)
